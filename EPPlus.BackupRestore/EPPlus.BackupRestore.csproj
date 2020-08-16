@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>tbm0115</Authors>
+    <Company>tbm0115</Company>
+    <Description>Extension to EPPlus that simplifies Import/Export methods.</Description>
+    <PackageProjectUrl>https://github.com/tbm0115/EPPlus-BackupRestore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tbm0115/EPPlus-BackupRestore</RepositoryUrl>
+    <PackageTags>EPPlus</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
