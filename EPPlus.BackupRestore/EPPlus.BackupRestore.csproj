@@ -9,6 +9,7 @@
     <PackageProjectUrl>https://github.com/tbm0115/EPPlus-BackupRestore</PackageProjectUrl>
     <RepositoryUrl>https://github.com/tbm0115/EPPlus-BackupRestore</RepositoryUrl>
     <PackageTags>EPPlus</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
